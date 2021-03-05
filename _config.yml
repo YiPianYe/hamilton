@@ -29,6 +29,25 @@ exclude:
 
 # Jekyll SEO Tag (Optional)
 # =========================
+permalink: /:title.html
+# include子页面路径在_pages文件内
+defaults:
+  - scope:
+      path: ""      
+      type: "posts"
+    values:
+      layout: "post"
+      author: "青红椒"
+      image: "avatar.jpg"
+      share: true
+  - scope:
+      path: ""      
+      type: "pages"
+    values:
+      layout: "page"
+      author: "QingHongJiao"
+      image: "avatar.jpg"
+
 twitter:
   username: ngzhio
   card: summary
