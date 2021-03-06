@@ -50,7 +50,7 @@ defaults:
 
 twitter:
   username: ngzhio
-  card: summary
+  card: solarized
 logo: logo.png
 social:
   name: Shangzhi Huang
