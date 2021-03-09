@@ -1,4 +1,4 @@
-title: HBw.Me,鸿博
+title: 鸿博
 description: 一片叶,一花一世界，一树一菩提.
 author: HBW
 avatar: /logo.png
@@ -10,7 +10,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
 
-paginate: 10
+paginate: 8
 
 # Uncomment the below line and set the tracking ID for enabling Google Analytics
 # 
