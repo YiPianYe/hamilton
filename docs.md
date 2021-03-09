@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Docs
-permalink: /docs/
+title: links
+permalink: /links/
 ---
 
 A documentation page.
