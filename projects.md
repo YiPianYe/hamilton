@@ -4,10 +4,11 @@ title: Projects
 permalink: /projects/
 ---
 
-## Jekyll Themes
+## fontawesome CDN
   
-- [Hamilton - A minimal and beautiful Jekyll theme best for writing and note-taking](https://github.com/ngzhio/jekyll-theme-hamilton)
+- https://use.fontawesome.com/releases/v5.0.12/js/all.js
+- https://www.bootcdn.cn/font-awesome/
 
-## Websites
+## 前端 CDNJS 库及 Google Fonts、Ajax 和 Gravatar 国内加速服务
   
-- [豆瓣图书排行榜 - 根据贝叶斯平均对豆瓣图书搜索结果进行排序](https://ngzhio.github.io/dbl/)
+- https://sb.sb/blog/css-cdn/
