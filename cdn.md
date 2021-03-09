@@ -1,7 +1,7 @@
 ---
 layout: page
-title: FAQ
-permalink: /faq/
+title: CDN
+permalink: /cdn/
 ---
 
 An FAQ page.
