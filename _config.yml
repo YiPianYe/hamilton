@@ -1,8 +1,11 @@
 title: 鸿博
 description: 一片叶,一花一世界，一树一菩提.
+url: https://hbw.me
 author: HBW
 avatar: /logo.png
 email: abc@gmail.com
+location: YangLing, China
+timezone: +0000
 
 plugins:
   - jekyll-seo-tag
