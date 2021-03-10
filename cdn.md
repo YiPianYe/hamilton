@@ -25,10 +25,6 @@ jsdelivr
 
 [烧饼博客](https://sb.sb/blog/css-cdn/) 前端 CDNJS 库及 Google Fonts、Ajax 和 Gravatar 国内加速服务 - 烧饼博客
 
-
-若要参与维护公共导航列表，请访问 [公共导航列表添加建议区](https://github.com/Dreamer-Paul/KStart) 进行回复，符合条件的站点将会进行收录。
-
-
 <details>
   
 <summary>链接分类</summary>
