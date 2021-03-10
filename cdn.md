@@ -37,7 +37,7 @@ jsdelivr
 <li><a href="https://zibaicai.com/pages/chic.html" title="链接注解">chic.html</a>痴人多梦痴人多梦</li>
 <li><a href="https://zibaicai.com/pages/chic.html" title="链接注解">chic.html</a>痴人多梦痴人多梦</li>
 <li><a href="https://zibaicai.com/pages/chic.html" title="链接注解">chic.html</a>痴人多梦痴人多梦</li>
-<img width="300" src="https://laoheshang.github.io/images/safari-pinned-tab.svg" alt="alipay">
+<img width="300" src="https://laoheshang.github.io/images/safari-pinned-tab.svg" alt="老和尚">
 </details>
 
 
