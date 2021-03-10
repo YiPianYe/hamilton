@@ -4,4 +4,41 @@ title: CDN
 permalink: /cdn/
 ---
 
-An FAQ page.
+### 常用加速
+
+
+# CDN，加速
+常用CDN，加速存储......
+
+
+# coder
+
+jsdelivr
+
+`https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css`
+
+
+
+<summary>CDN，加速</summary>
+
+[font-awesome](https://www.bootcdn.cn/font-awesome/) bootcdn加速
+
+[烧饼博客](https://sb.sb/blog/css-cdn/) 前端 CDNJS 库及 Google Fonts、Ajax 和 Gravatar 国内加速服务 - 烧饼博客
+
+
+若要参与维护公共导航列表，请访问 [公共导航列表添加建议区](https://github.com/Dreamer-Paul/KStart) 进行回复，符合条件的站点将会进行收录。
+
+
+<details>
+  
+<summary>链接分类</summary>
+
+<li><a href="https://use.fontawesome.com/releases/v5.0.12/js/all.js" title="use.fontawesome.com">https://use.fontawesome.com</a>use.fontawesome.com</li>
+<li><a href="https://zibaicai.com/pages/chic.html" title="链接注解">chic.html</a>痴人多梦痴人多梦</li>
+<li><a href="https://zibaicai.com/pages/chic.html" title="链接注解">chic.html</a>痴人多梦痴人多梦</li>
+<li><a href="https://zibaicai.com/pages/chic.html" title="链接注解">chic.html</a>痴人多梦痴人多梦</li>
+<img width="300" src="https://laoheshang.github.io/images/safari-pinned-tab.svg" alt="alipay">
+</details>
+
+
+
