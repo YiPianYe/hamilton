@@ -13,11 +13,9 @@ permalink: /cdn/
 
 # coder
 
-jsdelivr
 
-`https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css`
-
-
+https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css  
+https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css  
 
 <summary>CDN，加速</summary>
 
